@@ -3,8 +3,9 @@
 I'm an intern developer, passionate about the best web and mobile development technologies. I have experience with projects using JavaScript. I am a student at Udemy, where I learned in practice the most modern web and mobile development technologies.
 
 - 🌱 I have experience with JavaScript.
-- See my Instagram channel: [Jean Gabriel](https://www.instagram.com/soufcon/)
-- See my LinkedIn: [Jean Gabriel](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
+- See my Instagram channel: [Instagram](https://www.instagram.com/soufcon/)
+- See my LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
+
 
 <div align="center" >
 </div>
