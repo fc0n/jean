@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an intern developer, passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS. I am a student at Udemy, where I learned in practice the most modern web and mobile development technologies.
+I'm an intern developer, passionate about the best web and mobile development technologies. I have experience with projects using JavaScript. I am a student at Udemy, where I learned in practice the most modern web and mobile development technologies.
 
 - 🌱 I have experience with JavaScript.
 - See my Instagram channel: [Jean Gabriel](https://www.instagram.com/soufcon/)
