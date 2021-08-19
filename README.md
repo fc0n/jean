@@ -8,7 +8,6 @@ I'm an intern developer, passionate about the best web and mobile development te
 
 <div align="center" >
 
-[![Jean Gabriel github stats](https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
   <a href="https://www.linkedin.com/in/jean-gabriel-9b9924203/">
     <img src="https://www.linkedin.com/in/jean-gabriel-9b9924203/" alt="LinkedIn" height="50">
