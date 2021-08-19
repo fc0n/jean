@@ -7,12 +7,6 @@ I'm an intern developer, passionate about the best web and mobile development te
 - See my LinkedIn: [Jean Gabriel](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
 
 <div align="center" >
-
-<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-  <a href="https://www.linkedin.com/in/jean-gabriel-9b9924203/">
-    <img src="https://www.linkedin.com/in/jean-gabriel-9b9924203/" alt="LinkedIn" height="50">
-  </a>
-</div>
 </div>
 
 
