@@ -2,9 +2,9 @@
 
 Sou um desenvolvedor estagiário, apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos usando JavaScript. Sou aluno da Udemy, onde aprendi na prática o que há de mais moderno em tecnologias de desenvolvimento web e mobile.
 
-- 🌱 I have experience with JavaScript.
-- See my Instagram: [Instagram](https://www.instagram.com/soufcon/)
-- See my LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
+- Tenho experiência com Html / CSS.
+- Veja meu Instagram: [Instagram](https://www.instagram.com/soufcon/)
+- Veja meu LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
 
 
 <div align="center" >
