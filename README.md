@@ -1,8 +1,8 @@
 ### Olá meu nome é Jean 👋
 
-Sou um desenvolvedor estagiário, sou apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile. Tenho experiência com projetos usando JS/HTML/CSS. Sou aluno da Udemy, onde aprendi na prática o que há de mais moderno em tecnologias de desenvolvimento Web / Mobile.
+Sou um desenvolvedor estagiário, sou apaixonado pelas melhores tecnologias de desenvolvimento Web. Tenho experiência com projetos usando JS/HTML/CSS. Sou aluno da Udemy, onde aprendi na prática o que há de mais moderno em tecnologias de desenvolvimento Web.
 
-- Tenho experiência com HTML / CSS.
+- Tenho experiência com HTML / CSS / JS.
 - Veja meu Instagram: [Instagram](https://www.instagram.com/soufcon/)
 - Veja meu LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
 
