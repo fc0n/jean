@@ -1,10 +1,9 @@
-### Olá meu nome é Jean 👋
+### Hello my name is Jean 👋
 
-Sou um desenvolvedor estagiário, sou apaixonado pelas melhores tecnologias de desenvolvimento Web. Tenho experiência com projetos usando JS/HTML/CSS. Sou aluno da Udemy, onde aprendi na prática o que há de mais moderno em tecnologias de desenvolvimento Web.
+I'm an intern developer, I'm passionate about the best web development technologies. I have experience with projects using JS/HTML/CSS. I'm a student at Udemy, where I learned in practice the latest in Web development technologies.
 
-- Tenho experiência com HTML / CSS / JS.
-- Veja meu Instagram: [Instagram](https://www.instagram.com/soufcon/)
-- Veja meu LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
+- see my Instagram: [Instagram](https://www.instagram.com/soufcon/)
+- see my LinkedIn: [Linkedin](https://www.linkedin.com/in/jean-gabriel-9b9924203/)
 
 
 <div align="center" >
